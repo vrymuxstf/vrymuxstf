@@ -5,7 +5,7 @@
 <div align="center"> 
   <h3>Language</h3>
   <p>C++ / C / C# / Phython / Java</p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="img"></img>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="img"></img>
 
   <div align="center">
   <h3>More Info</h3>
