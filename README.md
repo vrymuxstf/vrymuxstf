@@ -13,9 +13,11 @@
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="img"></img>
 
   <h3>Editor</h3>
-  <img src=https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"" alt="img"></img>
-  <img src="" alt="img"></img>
-  <img src="" alt="img"></img>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="img"></img>
+  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="img"></img>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="img"></img>
+
+  
   <img src="" alt="img"></img>
   <img src="" alt="img"></img>
 
