@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="img"></img>
 
   <h3>Project</h3>
-  <h4>C++ Game Engine</h4>
-  <a href="https://github.com/vrymuxstf/alice">Visit source codes!</a>
+  <h3>C++ Game Engine</h3>
+  <h3 href="https://github.com/vrymuxstf/alice">Visit source codes!</h3>
 
   <div align="center">
   <h3>More Info</h3>
