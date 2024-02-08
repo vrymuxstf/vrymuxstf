@@ -21,7 +21,7 @@
 
   <h3>Project</h3>
   <h3>C++ Game Engine</h3>
-  <h3 href="https://github.com/vrymuxstf/alice">Visit source codes!</h3>
+  <a href="https://github.com/vrymuxstf/alice">Visit source codes!</a>
 
   <div align="center">
   <h3>More Info</h3>
