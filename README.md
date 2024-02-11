@@ -22,7 +22,6 @@
   <h3>Check my github repos for projects!</h3>
 
   <div align="center">
-  <h3>More Info</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrymuxstf&langs_count=14&count_private=true&layout=compact&include_all_commits=true" alt="img" />
     <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=vrymuxstf&show_icons=true&hide_title=true&count_private=true" alt="img" />
